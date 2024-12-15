@@ -5,6 +5,7 @@ import Features from './components/Features';
 import GadgetList from './components/GadgetList';
 import ContactForm from './components/ContactForm';
 import Footer from './components/Footer';
+import './index.css';
 
 const App: React.FC = () => {
   return (
